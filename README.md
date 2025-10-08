@@ -110,5 +110,6 @@ Input Ports:
 Output Port:
  02H → Hexadecimal number (combined 8-bit value)
 •	The hexadecimal equivalent of the ASCII input will be stored in memory location 4300H.
+
 ## Result:
 The 8085 microprocessor successfully converts hexadecimal numbers to ASCII and vice versa, storing the results in memory.
